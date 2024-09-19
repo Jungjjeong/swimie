@@ -5,7 +5,9 @@
 🏊‍♂️ Swimie는 수영 기록을 간편하게 관리하고, 친구들과 응원을 주고받을 수 있는 커뮤니티 기반의 수영 기록 앱입니다. <br />
 수영이 더 즐거워지는 공간, 스위미에서 오늘의 수영을 기록하고✒️, 친구들의 응원과 함께 동기부여를 얻어보세요! 💪
 
-#### <a href="https://swimie.life">👉Swimie 바로가기</a>
+#### <a href="https://swimie.life">👉 Swimie 웹 서비스</a>
+#### <a href="https://play.google.com/store/apps/details?id=jiyoung0106.depromeet">📲 Swimie AOS 구글플레이 스토어</a>
+#### <a href="https://apps.apple.com/app/swimie/id6670447205">📲 Swimie iOS 앱스토어</a>
 
 <br />
 
