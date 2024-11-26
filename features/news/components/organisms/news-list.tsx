@@ -31,9 +31,7 @@ export const NewsList = () => {
   // };
 
   return isEmpty ? (
-    <section className={emptySectionStyle}>
-      <EmptyNews />
-    </section>
+    <EmptyNews />
   ) : (
     <>
       <HeaderBar>
@@ -115,11 +113,6 @@ const getPropsObjects = (content: NewsContent) => {
   };
   return { wrapperProps, cardContent };
 };
-
-const emptySectionStyle = css({
-  px: '20px',
-  h: '90dvh',
-});
 
 const sectionStyle = css({
   px: '20px',
